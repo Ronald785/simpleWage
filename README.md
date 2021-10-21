@@ -30,9 +30,9 @@ Sistema facilitador para gestão salarial de funcionários. O sistema SimpleWage
 ## 🗺️ Diagramas  
 - Diagramas
   - Casos de Uso
-    <br><img src="" width="500px;" alt="" style="border-radius:50%"/>
+    <br><img src="https://github.com/Ronald785/simpleWage/blob/main/img/casos_uso.JPG" width="500px;" alt="" style="border-radius:50%"/>
   - Diagrama de Classes
-    <br><img src="" width="500px;" alt="" style="border-radius:50%"/>
+    <br><img src="https://github.com/Ronald785/simpleWage/blob/main/img/Diagrama%20de%20classes%20-%20SimpleWage.png" width="500px;" alt="" style="border-radius:50%"/>
  
 ## 👨🏽‍🎓 Integrantes
 <table>
